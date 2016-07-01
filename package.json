@@ -1,0 +1,23 @@
+{
+  "name": "mergesort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panicboy/MergeSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panicboy/MergeSort/issues"
+  },
+  "homepage": "https://github.com/panicboy/MergeSort#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
